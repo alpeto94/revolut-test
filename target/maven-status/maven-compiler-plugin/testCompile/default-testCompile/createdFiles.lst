@@ -1,0 +1,8 @@
+com/revolut/api/AddAccountTest.class
+com/revolut/common/InitEnvironment.class
+com/revolut/common/TestConstants.class
+com/revolut/api/MultithreadingTest$1.class
+com/revolut/api/GetAccountTest.class
+com/revolut/api/MultithreadingTest.class
+com/revolut/common/APICall.class
+com/revolut/api/TransferMoneyTest.class
